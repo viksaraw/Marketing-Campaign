@@ -33,28 +33,34 @@ Find insights which can help in improving the effectiveness of the campaign
 **1. Logistic Regression**
 
    **Metrics and Curve for Logisct Regression**
+   
    ![Logistic Regression Results](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20Regression%20Metrics%20and%20Graph.png)
    
 **2. Decision Tree**
 
   **Metrics and Curve for Decision Tree**
+  
    ![Decision Tree Results](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Metrics%20and%20Graph.png)
        
 **3. KNN**  
 
   **Metrics and Curve for KNN**
+  
    ![KNN](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Metrics%20and%20Curve.png)
        
 **4. SVM**
 
   **Metrics and Curve for SVM**
+  
    ![KNN]()
 
    
    ### Metrics  comparision of all the 4 Models**
+   
    ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Metrics.png)
 
    ### 4. Cross Validation of Model Results
+   
    1. Applied Grid Search CV on all the Models above to find the best params.
 
   **Best Param for Logistic Regression**
@@ -63,16 +69,18 @@ Find insights which can help in improving the effectiveness of the campaign
 
 
   **Best Param for Decision Tree**
+  
     ![Decision Tree Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Best%20Param.png)
 
 
    **Best Param for SVM**
+   
     ![SVM Best Param]()
 
 
    **Best Param for KNN**
    
-    ![ KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
+    ![KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
 
     
    ### 5. Feature Selection
