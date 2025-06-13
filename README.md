@@ -20,14 +20,14 @@ Find insights which can help in improving the effectiveness of the campaign
 3. Checked unique values for each feature to visually check for any un realistic or un common value
   
  ### 2. Data Preperation ** 
-      1. Deleted 12 duplicate records
-      2. Train Test Split : Splitted data into Train Test Sets
-      3. Dropped feature "Duration" as suggested in instructions because I am building predictive models
-      4. Split data into Trainning and Test sets
-      5. Applied One hot encoding on these features :  one_hot_features = ['job',  'marital', 'default', 'housing', 'loan', 'contact', 'poutcome']\
-      6. Applied Ordinal encoding on these features:   ordinal_features = ['education', 'month', 'day_of_week']
-      7. Did selective scaling using Standard Scaler : Scaled only the columns which were non binary
-      8. Data Preperation Completed
+   1. Deleted 12 duplicate records
+   2. Train Test Split : Splitted data into Train Test Sets
+   3. Dropped feature "Duration" as suggested in instructions because I am building predictive models
+   4. Split data into Trainning and Test sets
+   5. Applied One hot encoding on these features :  one_hot_features = ['job',  'marital', 'default', 'housing', 'loan', 'contact', 'poutcome']\
+   6. Applied Ordinal encoding on these features:   ordinal_features = ['education', 'month', 'day_of_week']
+   7. Did selective scaling using Standard Scaler : Scaled only the columns which were non binary
+   8. Data Preperation Completed
 
 ### 3. Modeling
 1. Logistic Regression
