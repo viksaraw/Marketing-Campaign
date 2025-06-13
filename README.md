@@ -30,31 +30,22 @@ Find insights which can help in improving the effectiveness of the campaign
    8. Data Preperation Completed
 
 ### 3. Modeling
-1. Logistic Regression
-       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE,
-          RMSE etc.
-       2. Plotted ROC Curve
+**1. Logistic Regression**
 
    **Metrics and Curve for Logisct Regression**
-   ![Logistic Regression Results]()
+   ![Logistic Regression Results](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20Regression%20Metrics%20and%20Graph.png)
    
-2. Decision Tree
-       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
-       2. Plotted ROC Curve
+**2. Decision Tree**
 
   **Metrics and Curve for Decision Tree**
-   ![Decision Tree Results]()
+   ![Decision Tree Results](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Metrics%20and%20Graph.png)
        
-3. KNN
-       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
-       2. Plotted ROC Curve
-       
+**3. KNN**  
+
   **Metrics and Curve for KNN**
-   ![KNN]()
+   ![KNN](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Metrics%20and%20Curve.png)
        
-4. SVM
-       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
-       2. Plotted ROC Curve
+**4. SVM**
 
   **Metrics and Curve for SVM**
    ![KNN]()
