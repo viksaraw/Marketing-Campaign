@@ -7,9 +7,9 @@ Find insights which can help in improving the effectiveness of the campaign
    2. Data Preperation
    3. Modeling
    4. Cross Validation of Model Results
-   6. Feature Selection
-   7. Conclusion
-   8. Business Insights
+   5. Feature Selection
+   6. Conclusion
+   7. Business Insights
 
 ### 1. Data Details :
 1. Read data from the source file and stored in data frame
@@ -55,8 +55,30 @@ Find insights which can help in improving the effectiveness of the campaign
    ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Metrics.png)
 
    ### 4. Cross Validation of Model Results
-   1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
-   2. Applied Grid Search CV on all the Models above to find the best params.
-   3. Metrics with best params for each model is displayed as belo
-   4. 
+   1. Applied Grid Search CV on all the Models above to find the best params.
 
+  **Besst Param for Logistic Regression**
+    ![Logistic Regression Best Param]()
+
+
+  **Besst Param for Decision Tree**
+    ![Decision Tree Best Param]()
+
+
+   **Besst Param for SVM**
+    ![SVM Best Param]()
+
+
+   **Besst Param for KNN**
+    ![ KNN Best Param]()
+
+    
+   ### 5. Feature Selection
+   1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
+   2. Applied Catboost classifier to check on feature importance
+      
+   ### 6. Conclusion
+
+
+   ### 7. Business Insights
+   
