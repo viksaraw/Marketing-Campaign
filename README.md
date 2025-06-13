@@ -58,24 +58,28 @@ Find insights which can help in improving the effectiveness of the campaign
    1. Applied Grid Search CV on all the Models above to find the best params.
 
   **Besst Param for Logistic Regression**
-    ![Logistic Regression Best Param]()
+    ![Logistic Regression Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20CV.png)
 
 
-  **Besst Param for Decision Tree**
+  **Best Param for Decision Tree**
     ![Decision Tree Best Param]()
 
 
-   **Besst Param for SVM**
+   **Best Param for SVM**
     ![SVM Best Param]()
 
 
-   **Besst Param for KNN**
-    ![ KNN Best Param]()
+   **Best Param for KNN**
+    ![ KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
 
     
    ### 5. Feature Selection
    1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
-   2. Applied Catboost classifier to check on feature importance
+      ![Feature Selection](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Feature%20Selection.png)
+
+      
+   3. Applied Catboost classifier to check on feature importance
+      ![Feature Importance by Catboost](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/CastBoost%20Feature%20Importance.png)
       
    ### 6. Conclusion
 
