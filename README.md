@@ -6,7 +6,7 @@ Find insights which can help in improving the effectiveness of the campaign
    1. Data Details
    2. Data Preperation
    3. Modeling
-   5. Cross Validation of Model Results
+   4. Cross Validation of Model Results
    6. Feature Selection
    7. Conclusion
    8. Business Insights
@@ -31,30 +31,41 @@ Find insights which can help in improving the effectiveness of the campaign
 
 ### 3. Modeling
 1. Logistic Regression
-       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
+       1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE,
+          RMSE etc.
        2. Plotted ROC Curve
+
+   **Metrics and Curve for Logisct Regression**
+   ![Logistic Regression Results]()
+   
 2. Decision Tree
        1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
        2. Plotted ROC Curve
+
+  **Metrics and Curve for Decision Tree**
+   ![Decision Tree Results]()
+       
 3. KNN
        1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
        2. Plotted ROC Curve
+       
+  **Metrics and Curve for KNN**
+   ![KNN]()
+       
 4. SVM
        1. Applied Logistic Regression and calculated metrics like - Accuracy score, Recall Score, Precision Score, MSE, RMSE etc.
        2. Plotted ROC Curve
 
+  **Metrics and Curve for SVM**
+   ![KNN]()
+
+   
    **Metrics  comparision of all the 4 Models**
    ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Metrics.png)
 
-   |               Model | Accuracy |  Recall  | Precision | F1 Score   |
-0  |               KNN   | 0.886987 | 0.275936 | 0.503906  |  0.356600  | 
-1  |    Decision Tree    | 0.832848 | 0.325134 | 0.289524  | 0.306297   |
-2  |             SVM     | 0.897037 | 0.232750 | 0.686930  | 0.347692   |
-3  |Logistic Regression  | 0.893031 | 0.187436 | 0.664234  | 0.292369   |
+   ### 4. Cross Validation of Model Results
+   1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
+   2. Applied Grid Search CV on all the Models above to find the best params.
+   3. Metrics with best params for each model is displayed as belo
+   4. 
 
-  |        Model        ROC AUC Score         Log Loss          Mean Absolute Error   Mean Squared Error          R2 Score  
-0           KNN        0.710789              1.756601             0.113013            0.113013                  -0.123204  
-1 Decision Tree        0.613728              5.982041             0.167152            0.167152                  -0.661280  
-2           SVM        0.681948              0.320381             0.102963            0.102963                   0.009950  
-3 Logisctic Regression 0.777897              0.291530             0.106969            0.106969                  -0.028578  
-   
