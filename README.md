@@ -63,7 +63,7 @@ Find insights which can help in improving the effectiveness of the campaign
 
 
   **Best Param for Decision Tree**
-    ![Decision Tree Best Param]()
+    ![Decision Tree Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Best%20Param.png)
 
 
    **Best Param for SVM**
