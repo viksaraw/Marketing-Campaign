@@ -44,6 +44,7 @@ Find insights which can help in improving the effectiveness of the campaign
        2. Plotted ROC Curve
 
    **Metrics  comparision of all the 4 Models**
+   ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Metrics.png)
 
    |               Model | Accuracy |  Recall  | Precision | F1 Score   |
 0  |               KNN   | 0.886987 | 0.275936 | 0.503906  |  0.356600  | 
