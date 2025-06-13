@@ -57,7 +57,8 @@ Find insights which can help in improving the effectiveness of the campaign
    ### 4. Cross Validation of Model Results
    1. Applied Grid Search CV on all the Models above to find the best params.
 
-  **Besst Param for Logistic Regression**
+  **Best Param for Logistic Regression**
+  
     ![Logistic Regression Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20CV.png)
 
 
@@ -70,6 +71,7 @@ Find insights which can help in improving the effectiveness of the campaign
 
 
    **Best Param for KNN**
+   
     ![ KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
 
     
