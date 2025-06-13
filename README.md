@@ -77,10 +77,12 @@ Find insights which can help in improving the effectiveness of the campaign
     
    ### 5. Feature Selection
    1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
+      
       ![Feature Selection](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Feature%20Selection.png)
 
       
    3. Applied Catboost classifier to check on feature importance
+      
       ![Feature Importance by Catboost](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/CastBoost%20Feature%20Importance.png)
       
    ### 6. Conclusion
