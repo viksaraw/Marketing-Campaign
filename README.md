@@ -61,7 +61,7 @@ Find insights which can help in improving the effectiveness of the campaign
 
    
    ### Metrics  comparision of all the 4 Models**
-   ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Metrics.png)
+   ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Metrics.png)
 
    ### 4. Cross Validation of Model Results
    1. Create a countplot to visualize the impact of various columns like 'marital' etc. on 'y'
