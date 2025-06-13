@@ -52,7 +52,7 @@ Find insights which can help in improving the effectiveness of the campaign
 
   **Metrics and Curve for SVM**
   
-   ![KNN]()
+   ![SVM](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/SVM%20Metrics.png)
 
    
    ### Metrics  comparision of all the 4 Models**
