@@ -51,7 +51,7 @@ Find insights which can help in improving the effectiveness of the campaign
 2  |             SVM     | 0.897037 | 0.232750 | 0.686930  | 0.347692   |
 3  |Logistic Regression  | 0.893031 | 0.187436 | 0.664234  | 0.292369   |
 
-          Model        ROC AUC Score         Log Loss          Mean Absolute Error   Mean Squared Error          R2 Score  
+  |        Model        ROC AUC Score         Log Loss          Mean Absolute Error   Mean Squared Error          R2 Score  
 0           KNN        0.710789              1.756601             0.113013            0.113013                  -0.123204  
 1 Decision Tree        0.613728              5.982041             0.167152            0.167152                  -0.661280  
 2           SVM        0.681948              0.320381             0.102963            0.102963                   0.009950  
