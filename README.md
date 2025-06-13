@@ -60,7 +60,7 @@ Find insights which can help in improving the effectiveness of the campaign
    ![KNN]()
 
    
-   **Metrics  comparision of all the 4 Models**
+   ### Metrics  comparision of all the 4 Models**
    ![Metrics](https://github.com/viksaraw/Marketing-Campaign/blob/main/Metrics.png)
 
    ### 4. Cross Validation of Model Results
