@@ -63,24 +63,24 @@ Find insights which can help in improving the effectiveness of the campaign
    
    1. Applied Grid Search CV on all the Models above to find the best params.
 
-  **Best Param for Logistic Regression**
+  **1. Best Param for Logistic Regression**
   
-    ![Logistic Regression Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20CV.png)
+  ![Logistic Regression Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Logistic%20CV.png)
 
 
-  **Best Param for Decision Tree**
+  **2. Best Param for Decision Tree**
   
-    ![Decision Tree Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Best%20Param.png)
+  ![Decision Tree Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/Decision%20Tree%20Best%20Param.png)
 
 
-   **Best Param for SVM**
+   **3. Best Param for SVM**
    
-    ![SVM Best Param]()
+   ![SVM Best Param]()
 
 
-   **Best Param for KNN**
+   **4. Best Param for KNN**
    
-    ![KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
+   ![KNN Best Param](https://github.com/viksaraw/Marketing-Campaign/blob/main/Pics/KNN%20Best%20param.png)
 
     
    ### 5. Feature Selection
