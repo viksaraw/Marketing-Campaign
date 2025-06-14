@@ -9,7 +9,6 @@ Find insights which can help in improving the effectiveness of the campaign
    4. Cross Validation of Model Results
    5. Feature Selection
    6. Conclusion
-   7. Business Insights
 
 ### 1. Data Details :
 1. Read data from the source file and stored in data frame
@@ -95,6 +94,14 @@ Find insights which can help in improving the effectiveness of the campaign
       
    ### 6. Conclusion
 
+   SVM is the best model for this data set but it took more time to execute
 
-   ### 7. Business Insights
+   **Summary**  
+   
+   Logistic Regression is best for simple, linearly separable problems where interpretability is important
+   Decision Trees are great for quick, interpretable models that can handle non-linear data
+   KNN is suitable for small datasets and non-linear patterns but is slow and not interpretable
+   SVM is powerful for complex, high-dimensional problems but can be slow and hard to interpret
+   
+   
    
